@@ -1,6 +1,0 @@
-Za izradu modela baze podataka je koriscen alat erWIN, u kome je i izgenerisana skripta. Planira se koriscenje MySQL ili phpMyAdmin-a
-U izradi su ucestvovali:
-Srdjan SKorkovic - projektant
-Marko Jovanovic - pomocnik
-
-U izradi su ucestvovali i ostali clanovi tima, i svaka odluka vezana za izradu modela baze je doneta uz konsultovanje i dogovor, tj. jednoglasno.
